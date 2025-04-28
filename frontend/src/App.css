@@ -1,0 +1,29 @@
+.centered-box {
+  width: 300px;
+  margin: 50px auto;
+  padding: 20px;
+  box-shadow: 0 0 10px gray;
+  text-align: center;
+  border-radius: 8px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin: 10px 0;
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.button-group {
+  margin-top: 10px;
+}
+
+.points-box {
+  margin-top: 20px;
+  font-weight: bold;
+}
